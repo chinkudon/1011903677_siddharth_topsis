@@ -7,8 +7,8 @@ setup(
   description = '',
   author = 'siddharth ',
   author_email = 'sraghuvanshi_be19@thapar.edu',
-  url = '',
-  download_url = '',
+  url = 'https://github.com/chinkudon/1011903677_siddharth_topsis/',
+  download_url = 'https://github.com/chinkudon/1011903677_siddharth_topsis/archive/refs/tags/version.tar.gz',
   keywords = ['topsis','topsis score','rank','Thapar'],
   install_requires=['numpy','pandas' ],
   classifiers=[
